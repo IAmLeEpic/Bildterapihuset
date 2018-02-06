@@ -1,0 +1,24 @@
+.container{
+
+}
+
+.startPage-image{
+	text-align: center;
+}
+
+.startPage-title{
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+}
+
+.contentContainer{
+	background-color: #ededed;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.page1{
+	font-family: 'Dosis', sans-serif;
+	padding: 10px;
+}
+
